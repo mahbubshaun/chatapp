@@ -5,7 +5,7 @@ const Sidebar = () => {
     <div className="sidebarContainer">
       <div className="navFirstContainer">
         <div className="logo">
-          <img src="/assets/logo.png" alt="logo" />
+          <img src="/assets/Logo.png" alt="logo" />
         </div>
         <div className="navItems">
           <div className="navItem">
